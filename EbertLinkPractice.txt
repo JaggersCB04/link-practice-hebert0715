@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+
+  </head>
+
+  <body>
+<table>
+<tr>
+ <th>Period</th>
+ <th>Class</th>
+ <th>Teacher</th>
+ <th>Room</th>
+</tr>
+<tr>
+ <td>1</td>
+ <td>ELA</td>
+ <td>Anderson</td>
+ <td>81</td>
+</tr>
+<tr>
+ <td>2</td>
+ <td>Science</td>
+ <td><a href="http://www.mpsaz.org/rhodes/staff/mmbeaith/"target=_blank">Felix</a></td>
+ <td>13</td>
+</tr>
+<tr>
+ <td>3</td>
+ <td>Pre-Algebra</td>
+ <td><a href="http://www.mpsaz.org/rhodes/staff/hahovey/"target=_blank">Hovey</a></td>
+ <td>86</td>
+</tr>
+<tr>
+ <td>4</td>
+ <td>Sculpture and Ceramics</td>
+ <td>Granese</td>
+ <td>31</td>
+</tr>
+<tr>
+ <td>5</td>
+ <td>Computers/Electronics/Robotics Technology</td>
+ <td>Kalvans</td>
+ <td>12</td>
+</tr>
+<tr>
+ <td>6</td>
+ <td>Social Studies</td>
+ <td>Wright</td>
+ <td>71</td>
+</tr>
+<tr>
+ <td>7</td>
+ <td>Video Production</td>
+ <td>Styles</td>
+ <td>89</td>
+</tr
+</table>
+
+<table>
+<tr>
+ <th>Period</td>
+ <th>Class</td>
+ <th>Teacher</td>
+ <th>Room</td>
+</tr>
+<tr>
+ <td>1</th>
+ <td>ELA</th>
+ <td>Anderson</th>
+ <td>81</th>
+</tr>
+<tr>
+ <td>2</td>
+ <td>P.E.</td>
+ <td>Randall</td>
+ <td>25</td>
+</tr>
+<tr>
+ <td>3</td>
+ <td>Science</td>
+ <td>Felix</td>
+ <td>13</td>
+</tr>
+<tr>
+ <td>4</td>
+ <td>Pre-Algebra</td>
+ <td>Hovey</td>
+ <td>86</td>
+</tr>
+<tr>
+ <td>5</td>
+ <td>Social Studies</td>
+ <td>Wright</td>
+ <td>71</td>
+</tr>
+<tr>
+ <td>6</td>
+ <td>Web Creations</td>
+ <td>Jaggers</td>
+ <td>57</td>
+</tr>
+<tr>
+ <td>7</td>
+ <td>Stagecraft</td>
+ <td>Murray</td>
+ <td>95</td>
+</tr>
+</table>
+  </body>
+</html>
